@@ -73,10 +73,4 @@ Pełna dokumentacja projektu znajduje się w folderze [`Docs/`](./Docs/), w tym:
 
 ---
 
-## 🧠 Wnioski
-
-_(Tutaj uzupełnij po zakończeniu projektu)_
-
----
-
 **Licencja:** MIT  
