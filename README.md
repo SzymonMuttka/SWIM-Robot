@@ -21,7 +21,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Sensory:**
   - 1x ultradźwiękowy (HC-SR04)
   - 2x optyczny (TCRT5000)
-- **Zasilanie:** Akumulator ??? / Powerbank
+- **Zasilanie:** 4x Akumulator Li-Ion / Powerbank
 - **Sterownik silników:** Mostek H L298N
 - **Komunikacja:** UART (USB)
 
@@ -31,7 +31,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 - ✅ Napęd sterowany przez PWM z użyciem Timerów
 - ✅ Obsługa sensorów ultradźwiękowych (pomiar odległości)
-- ✅ Odczyt wartości z sensorów optycznych
+- ✅ Odczyt wartości z sensorów IR (linia / przeszkody)
 - ✅ Detekcja kolizji i unikanie przeszkód
 - ✅ Sterowanie ruchem przez UART (komendy tekstowe)
 - ✅ Zasilanie bateryjne – pełna autonomia
