@@ -1,6 +1,6 @@
 # 🚗 Autonomiczny Pojazd z STM32
 
-Projekt semestralny z przedmiotu **Systemy Wbudowane i Mikrokontrolery**  
+Projekt semestralny z przedmiotu **Systemy Wbudowane i Mikroprocesory**  
 Autorzy: _Szymon Muttka 21278, Michał Mazurek 21265, Szymon Makutonowicz 21263_   
 Data rozpoczęcia: _13.05.2025_  
 Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
