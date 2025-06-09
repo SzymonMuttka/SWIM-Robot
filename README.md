@@ -38,11 +38,6 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ---
 
-## 📁 Struktura repozytorium
-
-
----
-
 ## 🔌 Komendy UART
 
 | Komenda | Opis                    |
