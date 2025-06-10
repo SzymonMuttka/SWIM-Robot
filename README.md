@@ -59,8 +59,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 📸 Demo i zdjęcia
 
-- Zdjęcia pojazdu: [Google Drive](#https://drive.google.com/drive/folders/1TfbH3kryY6ybw8brdwjdNVC6ISis0zKo?usp=drive_link)
-- Nagranie testów: [Google Drive](#https://drive.google.com/drive/folders/1Vy_8joohiYKfBA8PhHq96WehB2wlXCan?usp=drive_link)
+- Zdjęcia pojazdu: https://drive.google.com/drive/folders/1TfbH3kryY6ybw8brdwjdNVC6ISis0zKo?usp=drive_link
+- Nagranie testów: https://drive.google.com/drive/folders/1Vy_8joohiYKfBA8PhHq96WehB2wlXCan?usp=drive_link
 
 ---
 
